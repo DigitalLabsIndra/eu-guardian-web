@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--https://www.xul.fr/en-xml-rss.html-->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://www.eu-guardian.eu/rss/feeds.xml" rel="self" type="application/atom+xml" /> 
+<title>EU-GUARDIAN Newsletters</title>
+<link>https://www.eu-guardian.eu</link>
+<description>EU-GUARDIAN Newsletters</description>
+<image>
+    <title>EU-GUARDIAN Newsletters</title>
+    <url>https://www.eu-guardian.eu/assets/img-euguardian/Logos/Imagotipo_Positivo_eguardian.svg</url>
+    <link>https://www.eu-guardian.eu/rss/feeds.xml</link>
+</image>
+<item>
+<title>1st EU-GUARDIAN rss entry</title>
+<link>https://www.eu-guardian.eu</link>
+<description>1st EU-GUARDIAN rss entry</description>
+</item> 
+</channel>
+</rss>
